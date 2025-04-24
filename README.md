@@ -1,5 +1,4 @@
 ## Hi there! 👋 I'm Victor Kingsley,
----
 A 19-year-old tech innovator from Nigeria with 2+ years of hands-on experience crafting digital solutions. As a certified programmer,
 I thrive at the intersection of web development, blockchain technology, animation, and game design. My curiosity drives me to experiment with cutting-edge tools and frameworks, solving real-world problems through code and creativity.
 
@@ -23,7 +22,7 @@ I thrive at the intersection of web development, blockchain technology, animatio
 ### 🛠️ Tools & Platforms
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 
 ## 🌟 About Me
@@ -41,9 +40,9 @@ I thrive at the intersection of web development, blockchain technology, animatio
 ---
 
 ## 🌐 Let's Connect!
-- 📧 **Email**: kingsleyvictor@example.com
+- 📧 **Email**: kingsleyv350@gmail.com
 - 💼 **LinkedIn**: [Kingsley Victor](https://linkedin.com/in/kingsleyvictor)
-- 🐦 **Twitter**: [@KingsleyVictor](https://twitter.com/KingsleyVictor)
+- 🐦 **Twitter**: [@KingsleyVictor](https://twitter.com/Victor_can_code)
 
 ---
 
